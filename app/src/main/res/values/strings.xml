@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EMICalculator</string>
+    <string name="str_description">Welcome to the EMI Calculator App! To get started, please enter the following information to calculate your equated monthly installments!</string>
+
+</resources>
